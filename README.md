@@ -1,7 +1,8 @@
 # Repository Name: wc_geojson
 ## Repository Purpose:
 **Holds GeoJSON files, converted from other file types, for use in Web Mpping Projects**
-Beginning with Lab 4, but I figure but I figure having a personal repository with all of my potentially useful files will be a good practice.
+
+>Beginning with files for Lab 4, but I figure  having a personal repository with all of my potentially useful files will be a good practice.
 
 ## Current repository contents:
 File Name|File Size (kb)|Data Introduction
